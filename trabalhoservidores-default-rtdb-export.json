@@ -1,0 +1,174 @@
+{
+  "Donos": [
+    null,
+    {
+      "email": "laura.costa.severo@aluno.ifce.edu.br",
+      "nome": "Laura Costa Severo",
+      "telefone": "(88) 998629101"
+    },
+    {
+      "email": "kaique.nascimento.farias@aluno.ifce.edu.br",
+      "nome": "Kaique do Nascimento Farias",
+      "telefone": "(88) 997032351"
+    }
+  ],
+  "clientes": [
+    null,
+    {
+      "cpf": 11293604301,
+      "nome": "railane",
+      "numero": 88912345678
+    },
+    {
+      "cpf": 11293604302,
+      "nome": "marcos",
+      "numero": 99234567891
+    },
+    {
+      "cpf": 11293604303,
+      "nome": "luanda",
+      "numero": 88123443211
+    },
+    {
+      "cpf": "11293604304",
+      "nome": "Kelvin",
+      "numero": "88123456789"
+    },
+    {
+      "cpf": "11293604305",
+      "nome": "Karlos",
+      "numero": "88987654321"
+    },
+    {
+      "cpf": "11293604306",
+      "nome": "Tarcisio",
+      "numero": "88909876543"
+    },
+    {
+      "cpf": "11293604307",
+      "nome": "Railhane",
+      "numero": "880000000"
+    },
+    {
+      "cpf": "11293604308",
+      "nome": "Raiane",
+      "numero": "88975321187"
+    },
+    {
+      "cpf": "11293604309",
+      "nome": "Daiane",
+      "numero": "880000009"
+    },
+    {
+      "cpf": "11293604310",
+      "nome": "Maiane",
+      "numero": "8800000008"
+    }
+  ],
+  "funcionarios": [
+    null,
+    {
+      "funcao": "Vendedor",
+      "nome": "Vitor Sales Dias",
+      "salario": 1200,
+      "telefone": "(88) 992276080"
+    },
+    {
+      "funcao": "Vendedor",
+      "nome": "Pedro Facundo Leitao",
+      "salario": 1200,
+      "telefone": "(88) 992871403"
+    },
+    {
+      "funcao": "Vendedor",
+      "nome": "Joao Pedro de Lima Soares",
+      "salario": 1200,
+      "telefone": "(88) 998732013"
+    },
+    {
+      "funcao": "Caixa",
+      "nome": "Emanuele Freitas Farias",
+      "salario": 1500,
+      "telefone": "(88) 972641234"
+    },
+    {
+      "funcao": "Caixa",
+      "nome": "Gabriel Tavares ",
+      "salario": 1500,
+      "telefone": "(88) 987654321"
+    },
+    {
+      "funcao": "Gerente",
+      "nome": "Dudaru de Maria Severo",
+      "salario": 2000,
+      "telefone": "(88) 912345678"
+    },
+    {
+      "funcao": "Gerente",
+      "nome": "Railhane Daiane da Silva",
+      "salario": 2000,
+      "telefone": "(88) 908712341"
+    },
+    {
+      "funcao": "Supervisora",
+      "nome": "Fernanda Sales Neri",
+      "salario": 2500,
+      "telefone": "(88) 909090909"
+    },
+    {
+      "funcao": "Entregador",
+      "nome": "João Pedro Mota de Andrade",
+      "salario": 1000,
+      "telefone": "(88) 987095412"
+    },
+    {
+      "funcao": "Entregador",
+      "nome": "Mamá de Freitas Soares",
+      "salario": 1000,
+      "telefone": "(88) 982641732"
+    }
+  ],
+  "produtos": [
+    null,
+    {
+      "nome": "Tijolo oito furos milheiro",
+      "valor": 750
+    },
+    {
+      "nome": "Telhas milheiro",
+      "valor": 250
+    },
+    {
+      "nome": "Cimento",
+      "valor": 96
+    },
+    {
+      "nome": "Argamassa 20kg",
+      "valor": 49.5
+    },
+    {
+      "nome": "Piso M",
+      "valor ": 30
+    },
+    {
+      "nome": "Tintas 18l",
+      "valor": 70
+    },
+    {
+      "nome": "Madeira M",
+      "valor": 25
+    },
+    {
+      "nome": "Pacote de parafuso 30 unid",
+      "valor": 30
+    },
+    {
+      "nome": "aco kg",
+      "valor": 10
+    },
+    {
+      "nome": "torneira",
+      "valor": 200
+    }
+  ]
+}
